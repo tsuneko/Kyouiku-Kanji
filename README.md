@@ -1,11 +1,12 @@
 # Kyouiku-Kanji
 
-Simple flashcard app for G1~G6 Kanji built on the Love2D Game Engine
+Simple flashcard app for G1~G6 Kanji built on the Love2D Game Engine. I only spent a day working on this, so it may have bugs.
 
 Kanji data is parsed from the list found on [this site](https://agreatdream.com/japanese-ministry-of-education-list-of-kanji-by-school-year-okm/). There may be issues with the data parsed, as well as the romaji to hiragana conversion. Please do not rely on this application for thorough learning, its primary intention is for revision of material already learnt.
 
 ##Features:
 - 1006 Kanji
+- Automatically saved progress and state
 - Set system which can be used to move learnt Kanji up sets as they are learnt. It is recommended to have Set 1 for unknown Kanji, Set 2~4 for currently learning Kanji and Set 5 for learnt Kanji.
 - Batch system which can be sized between 1 and 50 Kanji, as well as an infinite option. The infinite option should be used for revising a whole Set, and as such it is not recommended to use it for Set 1.
 - To specify which Kanji of Sets are loaded into the batch, there are five square toggle buttons on the bottom left.
