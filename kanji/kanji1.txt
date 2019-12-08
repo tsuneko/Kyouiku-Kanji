@@ -1,0 +1,80 @@
+一 	ichi; itsu 	hito-tsu; hito～ 	one (things); one (connects to other words)
+二 	ni; (ji) 	futa-tsu; futa～ 	two; two (connects to other words)
+三 	san 	mit-tsu; mi～ 	three; three (connects to other words)
+四 	shi 	yot-tsu; yon; yo～ 	four (things); four; four (connects to other words)
+五 	go 	itsu-tsu; itsu～ 	five (things); five (connects to other words)
+六 	roku 	mut-tsu; mutsu; mu; mui～ 	six
+七 	shichi 	nana-tsu; nana; nano～ 	seven
+八 	hachi; you 	yat-tsu; yatsu; ya～ 	eight
+九 	ku; kyuu 	kokono-tsu; kokono～ 	nine
+十 	juu; ji- (じっ＝jixtsu) 	too; to 	ten
+百 	hyaku 	(momo) 	hundred
+千 	sen 	chi～ 	thousand
+上 	jou 	ue; a-geru; a-garu; nobo-ru; kami～; uwa～ 	top;
+下 	ka; ge 	shita; sa-geru; sa-garu; kuda-ru; kuda-su; kuda-saru; o-rosu; o-riru; shimo～ 	below
+左 	sa 	hidari 	left
+右 	u; yuu 	migi 	right
+中 	chuu; jyuu 	naka 	inside; middle
+大 	dai; tai 	oo-kii; oo-ini 	large
+小 	shou 	chii-sai; ko～; o～ 	small
+月 	gatsu; getsu 	tsuki 	month; moon
+日 	nichi; jitsu 	hi; ～ka 	day, sun; ～ day
+年 	nen 	toshi 	year
+早 	sou 	haya-i; haya-maru; haya-meru 	early
+木 	moku; boku 	ki; ko 	tree
+林 	rin 	hayashi 	woods; (forest)
+山 	san 	yama 	mountain
+川 	(sen) 	kawa 	river
+土 	do; to 	tsuchi 	soil
+空 	kuu 	sora; a-ku; a-keru; kara 	sky; open; open (a schedule time, seats); empty
+田 	den 	ta 	rice paddy
+天 	ten 	ama 	heaven; sky
+生 	sei; shou 	i-kiru; u-mu; u-mareru; nama; i-kasu; i-keru; ha-yasu; ha-eru; 	life
+花 	ka 	hana 	flower
+草 	sou 	kusa 	grass
+虫 	chuu 	mushi 	insect
+犬 	ken 	inu 	dog
+人 	jin; nin 	hito 	person
+名 	mei; myou 	na 	name
+女 	jo; nyo 	on’na 	female
+男 	dan; nan 	otoko 	male
+子 	shi; su 	ko 	child
+目 	moku 	me 	eye
+耳 	ji 	mimi 	ear
+口 	kou 	kuchi 	mouth
+手 	shu 	te 	hand
+足 	soku 	ashi 	foot; leg
+見 	ken 	mi-ru 	see
+音 	on 	ne; oto 	sound
+力 	riki; ryoku 	chikara 	power
+気 	ki; ke 		spirit
+円 	en 	maru 	circle; yen
+入 	nyuu 	hai-ru; i-ru 	enter
+出 	shutsu 	de-ru 	exit
+立 	ritsu 	ta-tsu 	stand up
+休 	kyuu 	yasu-mu 	rest
+先 	sen 	saki 	previous
+夕 	seki 	yuu 	evening
+本 	hon 	moto 	book
+文 	bun; mon 	fumi 	writing
+字 	ji 	aza 	character
+学 	gaku 	mana-bu 	study
+校 	kou 		school
+村 	son 	mura 	village
+町 	chou 	machi 	town
+森 	shin 	mori 	forest
+正 	sei 	tada-shii 	correct
+水 	sui 	mizu 	water
+火 	ka 	hi 	fire
+玉 	gyoku 	tama 	gem
+王 	ou 		king
+石 	seki 	ishi 	stone
+竹 	chiku 	take 	bamboo
+糸 	shi 	ito 	thread
+貝 		kai 	shellfish
+車 	sha 	kuruma 	wheeled vehicle
+金 	kin 	kane 	gold
+雨 	u 	ame 	rain
+赤 	seki 	aka 	red
+青 	sei 	ao 	blue
+白 	haku 	shiro 	white

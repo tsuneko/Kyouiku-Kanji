@@ -1,0 +1,1006 @@
+一 	ichi; itsu 	hito-tsu; hito～ 	one (things); one (connects to other words)
+二 	ni; (ji) 	futa-tsu; futa～ 	two; two (connects to other words)
+三 	san 	mit-tsu; mi～ 	three; three (connects to other words)
+四 	shi 	yot-tsu; yon; yo～ 	four (things); four; four (connects to other words)
+五 	go 	itsu-tsu; itsu～ 	five (things); five (connects to other words)
+六 	roku 	mut-tsu; mutsu; mu; mui～ 	six
+七 	shichi 	nana-tsu; nana; nano～ 	seven
+八 	hachi; you 	yat-tsu; yatsu; ya～ 	eight
+九 	ku; kyuu 	kokono-tsu; kokono～ 	nine
+十 	juu; ji- (じっ＝jixtsu) 	too; to 	ten
+百 	hyaku 	(momo) 	hundred
+千 	sen 	chi～ 	thousand
+上 	jou 	ue; a-geru; a-garu; nobo-ru; kami～; uwa～ 	top;
+下 	ka; ge 	shita; sa-geru; sa-garu; kuda-ru; kuda-su; kuda-saru; o-rosu; o-riru; shimo～ 	below
+左 	sa 	hidari 	left
+右 	u; yuu 	migi 	right
+中 	chuu; jyuu 	naka 	inside; middle
+大 	dai; tai 	oo-kii; oo-ini 	large
+小 	shou 	chii-sai; ko～; o～ 	small
+月 	gatsu; getsu 	tsuki 	month; moon
+日 	nichi; jitsu 	hi; ～ka 	day, sun; ～ day
+年 	nen 	toshi 	year
+早 	sou 	haya-i; haya-maru; haya-meru 	early
+木 	moku; boku 	ki; ko 	tree
+林 	rin 	hayashi 	woods; (forest)
+山 	san 	yama 	mountain
+川 	(sen) 	kawa 	river
+土 	do; to 	tsuchi 	soil
+空 	kuu 	sora; a-ku; a-keru; kara 	sky; open; open (a schedule time, seats); empty
+田 	den 	ta 	rice paddy
+天 	ten 	ama 	heaven; sky
+生 	sei; shou 	i-kiru; u-mu; u-mareru; nama; i-kasu; i-keru; ha-yasu; ha-eru; 	life
+花 	ka 	hana 	flower
+草 	sou 	kusa 	grass
+虫 	chuu 	mushi 	insect
+犬 	ken 	inu 	dog
+人 	jin; nin 	hito 	person
+名 	mei; myou 	na 	name
+女 	jo; nyo 	on’na 	female
+男 	dan; nan 	otoko 	male
+子 	shi; su 	ko 	child
+目 	moku 	me 	eye
+耳 	ji 	mimi 	ear
+口 	kou 	kuchi 	mouth
+手 	shu 	te 	hand
+足 	soku 	ashi 	foot; leg
+見 	ken 	mi-ru 	see
+音 	on 	ne; oto 	sound
+力 	riki; ryoku 	chikara 	power
+気 	ki; ke 		spirit
+円 	en 	maru 	circle; yen
+入 	nyuu 	hai-ru; i-ru 	enter
+出 	shutsu 	de-ru 	exit
+立 	ritsu 	ta-tsu 	stand up
+休 	kyuu 	yasu-mu 	rest
+先 	sen 	saki 	previous
+夕 	seki 	yuu 	evening
+本 	hon 	moto 	book
+文 	bun; mon 	fumi 	writing
+字 	ji 	aza 	character
+学 	gaku 	mana-bu 	study
+校 	kou 		school
+村 	son 	mura 	village
+町 	chou 	machi 	town
+森 	shin 	mori 	forest
+正 	sei 	tada-shii 	correct
+水 	sui 	mizu 	water
+火 	ka 	hi 	fire
+玉 	gyoku 	tama 	gem
+王 	ou 		king
+石 	seki 	ishi 	stone
+竹 	chiku 	take 	bamboo
+糸 	shi 	ito 	thread
+貝 		kai 	shellfish
+車 	sha 	kuruma 	wheeled vehicle
+金 	kin 	kane 	gold
+雨 	u 	ame 	rain
+赤 	seki 	aka 	red
+青 	sei 	ao 	blue
+白 	haku 	shiro 	white
+数 	suu 	kazu 	number
+多 	ta 	oo-i 	many; much
+少 	shou 	suku-nai; suko-shi 	a few; a little
+万 	man 	yorozu 	ten thousand
+半 	han 	naka-ba 	half
+形 	kei; gyou 	katachi 	shape
+太 	ta 	futo-i 	great
+細 	sai 	hoso-i 	thin
+広 	kou 	hiro-i 	wide
+長 	chou 	naga-i 	long
+点 	ten 	bochi △ 	point
+丸 	gan 	maru 	circle
+交 	kou 	maji-waru 	mix
+光 	kou 	hikari; hika-ru 	light
+角 	kaku 	kado; tsuno; sumi 	angle; corner
+計 	kei 	haka-ru 	measure
+直 	choku; jiki 	tada-chi; nao-su 	straight; correct
+線 	sen 		line
+矢 	shi 	ya 	arrow
+弱 	jaku 	yowa-i 	weak
+強 	kyou 	tsuyo-i 	strong
+高 	kou 	taka-i 	tall or high
+同 	dou 	ona-ji 	same
+親 	shin 	oya 	parent
+母 	bo 	haha; kaa 	mother
+父 	fu 	chichi; tou 	father
+姉 	shi 	ane 	older sister
+兄 	(kei); kyou 	ani 	older brother
+弟 	(tei); dai 	otouto 	younger brother
+妹 	mai 	imouto 	younger sister
+自 	ji; shi 	mizuka-ra 	oneself
+友 	yuu 	tomo 	friend
+体 	tai 	karada 	body
+毛 	mou 	ke 	hair
+頭 	tou 	atama 	head
+顔 	gan 	kao 	face
+首 	shu 	kubi 	neck
+心 	shin 	kokoro 	heart
+時 	ji 	toki 	time
+曜 	you 		weekday
+朝 	chou 	asa 	morning
+昼 	chuu 	hiru 	daytime
+夜 	ya 	yoru 	night
+分 	fun; bun; bu 	wa-karu; wa-keru; wa-kareru; wa-katsu 	minute; understand
+週 	shuu 		week
+春 	shun 	haru 	spring
+夏 	ka 	natsu 	summer
+秋 	shuu 	aki 	autumn
+冬 	tou 	fuyu 	winter
+今 	kon 	ima 	now
+新 	shin 	atara-shii 	new
+古 	ko 	furu-i 	old
+間 	kan; ken 	ma; aida 	interval
+方 	hou 	kata 	direction
+北 	hoku 	kita 	north
+南 	nan 	minami 	south
+東 	tou 	higashi; azuma 	east
+西 	sei; sai 	nishi 	west
+遠 	en 	too-i 	far
+近 	kin 	chika-i 	near
+前 	zen 	mae 	in front
+後 	go; kou 	nochi; ushi-ro; ato 	behind
+内 	nai 	uchi 	inside
+外 	gai; ge 	soto; hoka; hazu-su 	outside
+場 	jou 	ba 	place
+地 	chi; ji 		ground
+国 	koku 	kuni 	country
+園 	en 	sono 	garden
+谷 	koku 	tani 	valley
+野 	ya 	no 	field
+原 	gen 	hara 	field; origin
+里 	ri 	sato 	village
+市 	shi 	ichi 	city
+京 	kyou; (kei) 	(miyako) 	capital
+風 	fuu 	kaze 	wind
+雪 	setsu 	yuki 	snow
+雲 	un 	kumo 	cloud
+池 	chi 	ike 	pond
+海 	kai 	umi 	sea
+岩 	gan 	iwa 	rock
+星 	sei 	hoshi 	star
+室 	shitsu 	muro 	room
+戸 	ko 	to; be 	door
+家 	ka; ke 	ie 	house
+寺 	ji 	tera 	Buddhist temple
+通 	tsuu 	too-ru 	pass through
+門 	mon 	kado 	gates
+道 	dou 	michi 	road
+話 	wa 	hanashi; hana-su 	talk
+言 	gen; gon 	i-u; koto 	say
+答 	tō 	kota-eru; kota-e 	answer
+声 	sei 	koe 	voice
+聞 	bun; mon 	ki-ku 	hear
+語 	go 	kata-ru 	language
+読 	doku 	yo-mu 	read
+書 	sho 	ka-ku 	write
+記 	ki 	shiru-su 	write down
+紙 	shi 	kami 	paper
+画 	ga; kaku 	 – 	picture
+絵 	kai 	e 	picture
+図 	zu; to 	(haka-ru) 	drawing
+工 	kou; ku 	 – 	craft
+教 	kyou 	oshi-eru 	teach
+晴 	sei 	hare 	clear
+思 	shi 	omo-u 	think
+考 	kou 	kanga-eru 	think about
+知 	chi 	shi-ru 	know
+才 	sai; zai 	wazukani; zae 	ability
+理 	ri 	kotowari 	reason
+算 	san 	 – 	calculate
+作 	saku 	tsuku-ru 	make
+元 	gen; gan 	moto 	origin
+食 	shoku 	ta-beru; ku-u 	eat; meal
+肉 	niku 	 – 	meat
+馬 	ba 	uma; ma 	horse
+牛 	gyuu 	ushi 	cow
+魚 	gyo 	uo; sakana 	fish
+鳥 	chou 	tori 	bird
+羽 	u 	ha; hane 	feather
+鳴 	mei 	na-ku 	chirp
+麦 	baku 	mugi 	wheat
+米 	bei; mai 	kome 	rice
+茶 	cha; sa 	 – 	tea
+色 	shoku 	iro 	colour
+黄 	ou 	ki 	yellow
+黒 	koku 	kuro 	black
+来 	rai 	ku-ru 	come
+行 	kou; gyou 	i-ku; yu-ku; okona-u 	go
+帰 	ki 	kae-ru 	return home
+歩 	ho 	aru-ku; ayu-mu 	walk
+走 	sou 	hashi-ru 	run
+止 	shi 	to-maru 	stop
+活 	katsu 	iki-ru; ika-su 	active; alive
+店 	ten 	mise 	store
+買 	bai 	ka-u 	buy
+売 	bai 	u-ru 	sell
+午 	go 	uma 	noon
+汽 	ki 		steam
+弓 	kyuu 	yumi 	bow
+回 	kai 	 – 	-times; to revolve
+会 	kai; e 	a-u 	association
+組 	so 	kumi 	association; team
+船 	sen 	fune 	ship
+明 	mei 	aka-rui 	bright
+社 	sha 	yashiro 	company
+切 	setsu 	ki-ru 	cut
+電 	den 	 – 	electricity
+毎 	mai 	 – 	every
+合 	gō 	a-u 	fit
+当 	tō 	a-taru 	hit
+台 	dai; tai 	 – 	base
+楽 	raku 	tano-shii 	pleasure
+公 	kou 	ōyake 	public
+引 	in 	hi-ku 	pull
+科 	ka 	 – 	section
+歌 	ka 	uta 	song
+刀 	tou 	katana 	sword
+番 	ban 	 – 	number
+用 	you 	mochi-iru 	use
+何 	ka 	nani; nan 	what
+丁 	chō 	 – 	pair
+世 	sei; se 	yo 	world
+両 	ryō 	 – 	both
+主 	shu 	nushi; omo-ni; omo-na 	master
+乗 	jō 	no-ru 	ride
+予 	yo 	 – 	in advance
+事 	ji 	koto 	abstract thing
+仕 	shi 	tsuka-eru 	serve
+他 	ta 	hoka 	other
+代 	dai; tai 	ka-waru; yo 	substitute
+住 	jū 	su-mu 	dwell
+使 	shi 	tsuka-u 	use
+係 	kei 	kakari; kaka-ru 	person in charge
+倍 	bai 	 – 	double
+全 	zen 	matta-ku 	whole
+具 	gu 	 – 	tool
+写 	sha 	utsu-su; utsu-ru 	copy
+列 	retsu 	 – 	row
+助 	jo 	tasu-keru 	help
+勉 	ben 	tsuto-meru 	diligence
+動 	dō 	ugo-ku 	move
+勝 	shō 	ka-tsu 	win
+化 	ka 	ba-keru; ba-kasu 	disguise; -ification
+区 	ku 	 – 	ward
+医 	i 	 – 	doctor
+去 	kyo or ko 	sa-ru 	leave
+反 	han 	so-ru 	anti-
+取 	shu 	to-ru 	take
+受 	ju 	u-keru; u-karu 	receive
+号 	gō 	 – 	number
+向 	kō 	mu-kau; mu-ku; mu-kou 	face (v.)
+君 	kun 	kimi 	you
+味 	mi 	aji; aji-wau 	flavor
+命 	mei 	inochi 	life
+和 	wa 	 – 	peace; sum
+品 	hin 	shina 	article
+員 	in 	 – 	member
+商 	shō 	 – 	commerce
+問 	mon 	to-i; to-u; ton 	question
+坂 	 – 	saka 	slope
+央 	ō 	 – 	center
+始 	shi 	haji-meru; haji-maru 	begin
+委 	i 	yuda-neru 	committee
+守 	shu 	mamo-ru 	protect
+安 	an 	yasu-i 	cheap
+定 	tei; jō 	sada-meru; sada-maru 	fix
+実 	jitsu 	mi; mino-ru 	fruit; content
+客 	kyaku 	 – 	guest
+宮 	kyū 	miya 	Shinto shrine; prince (princess)
+宿 	shuku 	yado; yado-ru 	inn
+寒 	kan 	samu-i 	cold
+対 	tai 	 – 	opposite
+局 	kyoku 	 – 	office
+屋 	oku 	ya 	premise
+岸 	gan 	kishi 	shore
+島 	tō 	shima 	island
+州 	shū 	 – 	state
+帳 	chō 	 – 	account book
+平 	hei; byō 	tai-ra; hira 	flat
+幸 	kō 	saiwa-i; shiawa-se 	happiness
+度 	do 	 – 	degrees; occurrences
+庫 	ko 	 – 	warehouse
+庭 	tei 	niwa 	garden
+式 	shiki 	 – 	style
+役 	yaku 	 – 	role
+待 	tai 	ma-tsu 	wait
+急 	kyū 	iso-gu 	hurry
+息 	soku 	iki 	breath
+悪 	aku 	waru-i 	bad
+悲 	hi 	kana-shii 	sad
+想 	sō 	 – 	thought
+意 	i 	 – 	idea
+感 	kan 	 – 	feel
+所 	sho 	tokoro 	place
+打 	da 	u-tsu 	hit
+投 	tō 	na-geru 	throw
+拾 	 – 	hiro-u 	pick up
+持 	ji 	mo-tsu 	hold
+指 	shi 	yubi; sa-su 	finger
+放 	hō 	hana-su; hana-tsu; hana-reru 	release
+整 	sei 	totono-eru; totono-u 	put in order
+旅 	ryo 	tabi 	trip
+族 	zoku 	 – 	tribe
+昔 	 – 	mukashi 	long ago
+昭 	shō 	 – 	clear
+暑 	sho 	atsu-i 	hot
+暗 	an 	kura-i 	dark
+曲 	kyoku 	ma-garu; ma-geru 	sheet music; crooked
+有 	yū 	a-ru 	be; possession
+服 	fuku 	 – 	clothes
+期 	ki 	 – 	period of time
+板 	han or ban 	ita 	board
+柱 	chū 	hashira 	pillar
+根 	kon 	ne 	root
+植 	shoku 	u-eru 	plant
+業 	gyō 	 – 	business
+様 	yō 	sama 	appearance or Mr (Mrs, Ms)
+横 	ō 	yoko 	side
+橋 	kyō 	hashi 	bridge
+次 	ji 	tsugi; tsu-gu 	next
+歯 	shi 	ha 	tooth
+死 	shi 	shi-nu 	death
+氷 	hyō 	kōri 	ice
+決 	ketsu 	ki-meru; ki-maru 	decide
+油 	yu 	abura 	oil
+波 	ha 	nami 	wave
+注 	chū 	soso-gu 	pour
+泳 	ei 	oyo-gu 	swim
+洋 	yō 	 – 	ocean; western
+流 	ryū 	naga-reru 	stream
+消 	shō 	ki-eru; ke-su 	extinguish
+深 	shin 	fuka-i 	deep
+温 	on 	atata-kai; atata-ka; atata-maru; atata-meru 	warm
+港 	kō 	minato 	harbor
+湖 	ko 	mizūmi 	lake
+湯 	tō 	yu 	hot water
+漢 	kan 	 – 	China
+炭 	tan 	sumi 	charcoal
+物 	butsu; motsu 	mono 	thing
+球 	kyū 	tama 	ball
+由 	yū or yu 	yoshi 	reason
+申 		mō-su 	say
+界 	kai 		world
+畑 		hata; hatake 	agricultural field
+病 	byō 	yamai 	sick
+発 	hatsu 	 – 	departure
+登 	tō; to 	nobo-ru 	climb
+皮 	hi 	kawa 	skin
+皿 		sara 	dish
+相 	sō 	ai 	mutual
+県 	ken 	 – 	prefecture
+真 	shin 	ma 	true
+着 	chaku 	ki-ru; tsu-ku 	wear; arrive
+短 	tan 	mijika-i 	short
+研 	ken 	to-gu 	sharpen
+礼 	rei 	 – 	thanks
+神 	shin; jin 	kami 	god(s)
+祭 	sai 	matsu-ri; matsu-ru 	festival
+福 	fuku 	 – 	luck
+秒 	byō 	 – 	second
+究 	kyū 	 – 	research
+章 	shō 	 – 	chapter
+童 	dō 	 – 	juvenile
+笛 	teki 	fue 	whistle
+第 	dai 		ordinal number prefix
+筆 	hitsu 	fude 	writing brush
+等 	tō 	hito-shii 	class
+箱 		hako 	box
+級 	kyū 	 – 	rank
+終 	shū 	o-waru; o-eru 	end
+緑 	ryoku 	midori 	green
+練 	ren 	ne-ru 	practice
+羊 	yō 	hitsuji 	sheep
+美 	bi 	utsuku-shii 	beauty
+習 	shū 	nara-u 	learn
+者 	sha 	mono 	someone
+育 	iku 	soda-tsu; soda-teru; haguku-mu 	nurture
+苦 	ku 	kuru-shii; kuru-shimu; kuru-shimeru; niga-i; niga-ru 	suffer
+荷 	ka 	ni 	luggage
+落 	raku 	o-chiru; otosu 	fall
+葉 	yō 	ha 	leaf
+薬 	yaku 	kusuri 	medicine
+血 	ketsu 	chi 	blood
+表 	hyō 	omote; arawa-su; arawa-reru 	list or surface
+詩 	shi 	 – 	poem
+調 	chō 	shira-beru 	investigate
+談 	dan 	 – 	discuss
+豆 	tō; zu 	mame 	beans
+負 	fu 	ma-keru; o-u 	lose
+起 	ki 	o-kiru; o-kosu; o-koru 	wake up
+路 	ro 	ji 	road
+身 	shin 	mi 	body
+転 	ten 	koro-bu 	revolve
+軽 	kei 	karu-i 	light
+農 	nō 	 – 	farming
+返 	hen 	kae-su; kae-ru 	return
+追 	tsui 	o-u 	follow
+送 	sō 	oku-ru 	send
+速 	soku 	haya-i; haya-maru; haya-meru 	fast
+進 	shin 	susu-mu 	advance
+遊 	yū 	aso-bu 	play
+運 	un 	hako-bu 	carry
+部 	bu 	 – 	part
+都 	to; tsu 	miyako 	metropolis
+配 	hai 	kuba-ru 	distribute
+酒 	shu 	sake; saka 	rice wine
+重 	jū; chō 	omo-i; kasa-neru 	heavy
+鉄 	tetsu 	 – 	iron
+銀 	gin 	 – 	silver
+開 	kai 	hira-ku; a-ku; hira-keru; a-keru 	open
+院 	in 	 – 	institution
+陽 	yō 	 – 	sunshine
+階 	kai 	 – 	floor of a building
+集 	shū 	atsu-maru; atsu-meru 	collect
+面 	men 	omo-te; tsura 	face
+題 	dai 	 – 	topic
+飲 	in 	no-mu 	drink
+館 	kan 	yakata 	public building
+駅 	eki 	 – 	station
+鼻 	bi 	hana 	nose
+不 	fu; bu 	 – 	not
+争 	sō 	araso-u 	conflict
+付 	fu 	tsu-ku 	attach
+令 	rei 	 – 	orders
+以 	i 	 – 	since
+仲 	chū 	naka 	go-between
+伝 	den 	tsuta-eru 	transmit
+位 	i 	kurai 	rank
+低 	tei 	hiku-i 	low
+例 	rei 	tato-eru 	example
+便 	ben; bin 	tayo-ri 	convenience
+信 	shin 	 – 	trust
+倉 	sō 	kura 	storage
+候 	kō 	 – 	climate
+借 	shaku 	ka-riru 	borrow
+停 	tei 	 – 	halt
+健 	ken 	 – 	healthy
+側 	soku 	kawa 	side
+働 	dō 	hatara-ku 	work
+億 	oku 	 – 	hundred million
+兆 	chō 	kiza-shi 	portent; trillion
+児 	ji; ni 	 – 	child
+共 	kyō 	tomo 	together
+兵 	hei; hyō 	tsuwamono 	soldier
+典 	ten 	 – 	code
+冷 	rei 	tsume-tai; hi-eru; sa-meru 	cool
+初 	sho 	hatsu; haji-me 	first
+別 	betsu 	waka-reru 	separate
+利 	ri 	 – 	profit
+刷 	satsu 	su-ru 	printing
+副 	fuku 	 – 	vice-
+功 	kō 	 – 	achievement
+加 	ka 	kuwa-eru 	add
+努 	do 	tsuto-meru 	toil
+労 	rō 	negira-u 	labor
+勇 	yū 	isa-mu 	courage
+包 	hō 	tsutsu-mu 	wrap
+卒 	sotsu 	 – 	graduate
+協 	kyō 	 – 	cooperation
+単 	tan 	 – 	simple
+博 	haku 	 – 	Dr.
+印 	in 	shirushi 	mark
+参 	san 	mai-ru 	participate
+史 	shi 	 – 	history
+司 	shi 	 – 	director
+各 	kaku 	ono-ono 	each
+告 	koku 	tsu-geru 	tell
+周 	shū 	mawa-ri 	circumference
+唱 	shō 	tona-eru 	chant
+喜 	ki 	yoroko-bu 	rejoice
+器 	ki 	utsuwa 	container
+囲 	i 	kako-u 	surround
+固 	ko 	kata-maru 	harden
+型 	kei 	kata 	model
+堂 	dō 	 – 	public chamber
+塩 	en 	shio 	salt
+士 	shi 	 – 	gentleman
+変 	hen 	ka-waru 	change
+夫 	fu fuu bu 	otto 	husband
+失 	shitsu 	ushina-u 	lose
+好 	kō 	su-ku; kono-mu 	like
+季 	ki 	 – 	seasons
+孫 	son 	mago 	grandchild
+完 	kan 	 – 	perfect
+官 	kan 	 – 	government official
+害 	gai 	 – 	harm
+察 	satsu 	 – 	guess
+巣 	sō 	su 	nest
+差 	sa 	 – 	distinction
+希 	ki 	mare 	hope
+席 	seki 	 – 	seat
+帯 	tai 	obi 	sash
+底 	tei 	soko 	bottom
+府 	fu 	 – 	urban prefecture
+康 	kō 	 – 	ease
+建 	ken 	ta-teru 	build
+径 	kei 	 – 	diameter
+徒 	to 	 – 	junior
+得 	toku 	e-ru 	acquire
+必 	hitsu 	kanara-zu 	without fail
+念 	nen 	 – 	thought
+愛 	ai 	 – 	love
+成 	sei 	na-ru 	become
+戦 	sen 	ikusa; tataka-u 	war
+折 	setsu 	o-ru 	fold
+挙 	kyo 	a-geru 	raise
+改 	kai 	arata-meru 	reformation
+救 	kyū 	suku-u 	salvation
+敗 	hai 	yabu-reru 	failure
+散 	san 	chi-ru 	scatter
+料 	ryō 	 – 	fee
+旗 	ki 	hata 	national flag
+昨 	saku 	 – 	previous
+景 	kei 	 – 	scenery
+最 	sai 	mo; motto-mo 	most
+望 	bō 	nozo-mu 	hope
+未 	mi 	ima-da 	un-
+末 	matsu 	sue 	end
+札 	satsu 	fuda 	tag
+材 	zai 	 – 	lumber
+束 	soku 	taba; tsuka 	bundle
+松 	shō 	matsu 	pine
+果 	ka 	ha-tasu 	fruit; accomplish
+栄 	ei 	saka-eru 	prosperity
+案 	an 	 – 	plan
+梅 	bai 	ume 	apricot
+械 	kai 	 – 	contraption
+極 	kyoku 	kiwa-meru 	poles
+標 	hyō 	 – 	signpost
+機 	ki 	hata 	machine
+欠 	ketsu 	ka-keru 	lack
+歴 	reki 	 – 	curriculum
+残 	zan 	noko-ru 	remainder
+殺 	satsu 	koro-su 	kill
+毒 	doku 	 – 	poison
+氏 	shi 	uji 	family name
+民 	min 	tami 	people
+求 	kyū 	moto-mu 	request
+治 	chi or ji 	osa-meru; nao-ru 	govern
+法 	hō 	 – 	method
+泣 	kyū 	na-ku 	cry
+浅 	sen 	asa-i 	shallow
+浴 	yoku 	abi-ru 	bathe
+清 	sei or shō 	kiyo-raka 	pure
+満 	man 	mi-chiru 	full
+漁 	ryō or gyō 	asa-ru 	fishing
+灯 	tō 	hi 	lamp
+無 	mu or bu 	na-i 	nothing
+然 	zen or nen 	shika-shi 	so
+焼 	shō 	ya-ku 	bake
+照 	shō 	te-rasu 	illuminate
+熱 	netsu 	atsu-i 	heat
+牧 	boku 	maki 	breed
+特 	toku 	 – 	special
+産 	san 	u-mu 	give birth
+的 	teki 	mato 	target
+省 	sho or sei 	habu-ku 	government ministry
+祝 	shuku 	iwa-u 	celebrate
+票 	hyō 	 – 	ballot
+種 	shu 	tane 	kind or seed
+積 	seki 	tsu-mu 	accumulate
+競 	kyō 	kiso-u 	emulate
+笑 	shō 	wara-u 	laugh
+管 	kan 	kuda 	pipe
+節 	setsu 	fushi 	node
+粉 	fun 	ko; kona 	flour
+紀 	ki 	 – 	chronicle
+約 	yaku 	 – 	promise
+結 	ketsu 	musu-bu; yu-u 	tie
+給 	kyū 	tama-u 	salary
+続 	zoku 	tsudu-ku 	continue
+置 	chi 	o-ku 	put
+老 	rō 	o-iru 	old man
+胃 	i 	 – 	stomach
+脈 	myaku 	 – 	vein
+腸 	chō 	 – 	intestines
+臣 	shin 	 – 	retainer
+航 	kō 	 – 	cruise
+良 	ryō 	yo-i 	good
+芸 	gei 	 – 	art
+芽 	ga 	me 	bud
+英 	ei 	 – 	England
+菜 	sai 	na 	vegetable
+街 	gai 	machi 	city
+衣 	i 	koromo 	clothes
+要 	yō 	i-ru 	need
+覚 	kaku 	obo-eru; sa-meru 	memorize
+観 	kan 	mi-ru 	observe
+訓 	kun 	 – 	instruction
+試 	shi 	kokoromi-ru; tame-su 	test
+説 	setsu 	to-ku 	theory
+課 	ka 	 – 	section
+議 	gi 	 – 	deliberation
+象 	zō or shō 	 – 	elephant
+貨 	ka 	 – 	freight
+貯 	cho 	ta-meru 	savings
+費 	hi 	tsui-yasu 	expense
+賞 	shō 	 – 	prize
+軍 	gun 	 – 	army
+輪 	rin 	wa 	wheel
+辞 	ji 	ya-meru 	resign
+辺 	hen 	ata-ri 	environs
+連 	ren 	tsu-reru; tsura-neru 	take along
+達 	 – 	tachi 	attain
+選 	sen 	era-bu 	choose
+郡 	gun 	 – 	county
+量 	ryō 	 – 	quantity
+録 	roku 	 – 	record
+鏡 	kyō 	kagami 	mirror
+関 	kan 	seki 	related
+陸 	riku 	 – 	land
+隊 	tai 	 – 	group
+静 	sei 	shizu-ka 	quiet
+順 	jun 	 – 	obey
+願 	gan 	nega-u 	request
+類 	rui 	 – 	sort
+飛 	hi 	to-bu 	fly
+飯 	han 	meshi 	meal
+養 	yō 	yashina-u 	foster
+験 	ken 	 – 	test
+久 	kyū 	hisa 	long time
+仏 	hutsu; butsu 	hotoke 	Buddha
+仮 	ka; ke 	kari 	sham
+件 	ken 		affair
+任 	nin 	maka-seru 	responsibility
+似 	ji 	ni-ru 	becoming
+余 	yo 	ama-ru 	too much
+価 	ka 	atai 	value
+保 	ho 	tamo-tsu 	preserve
+修 	shū 	osa-meru 	discipline
+俵 	hyō 	tawara 	straw bag
+個 	ko 		individual
+備 	bi 	sona-eru 	provide
+像 	zō 		statue
+再 	sai; sa 	futata-bi 	again
+刊 	kan 		publish
+判 	han 	waka-ru 	judge
+制 	sei 		control
+券 	ken 		ticket
+則 	soku 	notto-ru 	rule
+効 	kō 	ki-ku 	effect
+務 	mu 	tsuto-meru 	duty
+勢 	sei 	ikio-i 	power
+厚 	kō 	atsu-i 	thick
+句 	ku 		phrase
+可 	ka 		possible
+営 	ei 	itona-mu 	manage
+因 	in 	yo-ru 	cause
+団 	dan; ton 		group
+圧 	atsu 		pressure
+在 	zai 	a-ru 	exist
+均 	kin 		level
+基 	ki 	moto-duku 	foundation
+報 	hō 	muku-iru 	report
+境 	kyō 	sakai 	boundary
+墓 	bo 	haka 	grave
+増 	zō 	ma-su; fu-eru 	increase
+夢 	mu 	yume 	dream
+妻 	sai 	tsuma 	wife
+婦 	fu 		lady
+容 	yō 		contain
+寄 	ki 	yo-ru 	approach
+富 	fu 	tomi 	rich
+導 	dō 	michibi-ku 	guide
+居 	kyo 	i-ru 	reside
+属 	zoku 		belong
+布 	fu 	nuno 	linen
+師 	shi 		expert
+常 	jō 	tsune 	normal
+幹 	kan 	miki 	tree-trunk
+序 	jo 		preface
+弁 	ben 		valve
+張 	chō 	ha-ru 	stretch
+往 	ō 		journey
+復 	fuku 		repeating
+徳 	toku 		virtue
+志 	shi 	kokorozashi 	intention
+応 	ō 		respond
+快 	kai 	kokoroyo-i 	cheerful
+性 	sei shō 	saga 	gender
+恩 	on 		grace
+情 	jō 	nasa-ke 	feelings
+態 	tai 		condition
+慣 	kan 	na-reru 	accustomed
+承 	shō 	uketamawa-ru 	acquiesce
+技 	gi 	waza 	skill
+招 	shō 	mane-ku 	beckon
+授 	ju 	sazu-keru 	instruct
+採 	sai 	to-ru 	pick
+接 	setsu 	ses-suru; tsu-gu 	contact
+提 	tei 	sa-geru 	present
+損 	son 	soko-neru 	loss
+支 	shi 	sasa-eru 	branch
+政 	sei 	matsurigoto 	politics
+故 	ko 	yue 	circumstances
+敵 	teki 	kataki 	enemy
+断 	dan 	ta-tsu; kotowa-ru 	cut off
+旧 	kyū 		old times
+易 	eki 	yasa-shii 	easy
+暴 	bō 	aba-ku 	outburst
+条 	jō 		clause
+枝 	shi 	eda 	branch
+査 	sa 		investigate
+格 	kaku 		status
+桜 	ō 	sakura 	cherry
+検 	ken 		examine
+構 	kō 	kama-eru 	construct
+武 	bu; mu 		military
+比 	hi 	kura-beru 	compare
+永 	ei 	naga-i 	eternity
+河 	ka 	kawa 	river
+液 	eki 		fluid
+混 	kon 	ma-zaru 	mix
+減 	gen 	he-ru 	decrease
+測 	soku 	haka-ru 	fathom
+準 	jun 		standard
+演 	en 		perform
+潔 	ketsu 	isagiyo-i 	undefiled
+災 	sai 	wazawa-i 	disaster
+燃 	nen 	mo-eru 	burn
+版 	han 		printing block
+犯 	han 	oka-su 	crime
+状 	jō 		form
+独 	doku 	hito-ri 	alone
+率 	ritsu; sotsu 	hiki-iru 	rate
+現 	gen 	arawa-reru 	appear
+留 	ryū ru 	todo-maru 	detain
+略 	ryaku 		abbreviation
+益 	eki 		benefit
+眼 	gan 	me 	eyeball
+破 	ha 	yabu-ru 	rend
+確 	kaku 	tashi-ka 	certain
+示 	shi 	shime-su 	indicate
+祖 	so 		ancestor
+禁 	kin 		prohibition
+移 	i 	utsu-ru 	shift
+程 	tei 	hodo 	extent
+税 	zei 		tax
+築 	chiku 	kizu-ku 	fabricate
+精 	sei 		refined
+素 	su or so 	moto 	elementary
+経 	kei; kyō 	he-ru 	manage
+統 	tō 	su-beru 	unite
+絶 	zetsu 	ta-tsu 	discontinue
+綿 	men 	wata 	cotton
+総 	sō 		whole
+編 	hen 	a-mu 	compile
+績 	seki 		exploits
+織 	shiki 	o-ru 	weave
+罪 	zai 	tsumi 	guilt
+群 	gun 	mu-reru 	flock
+義 	gi 		righteousness
+耕 	kō 	tagaya-su 	till
+職 	shoku 		employment
+肥 	hi 	ko-yasu 	fertilizer
+能 	nō 		ability
+興 	kyō 	oko-su 	entertain
+舌 	zetsu 	shita 	tongue
+舎 	sha 		cottage
+術 	jutsu 	sube 	art
+衛 	ei 		defense
+製 	sei 		manufacture
+複 	fuku 		duplicate
+規 	ki 		rule
+解 	ge; kai 	to-ku 	untie
+設 	setsu 	mouke-ru 	establish
+許 	kyo 	yuru-su 	permit
+証 	shō 	akashi 	evidence
+評 	hyō 		evaluate
+講 	kō 		lecture
+謝 	sha 	ayama-ru 	apologize
+識 	shiki 		discriminating
+護 	go 	mamo-ru 	safeguard
+豊 	hō 	yuta-ka 	bountiful
+財 	zai 		wealth
+貧 	hin 	mazushi-i 	poor
+責 	seki 	se-meru 	blame
+貸 	tai 	ka-su 	lend
+貿 	bō 		trade
+賀 	ga 		congratulations
+資 	shi 		resources
+賛 	san 		approve
+質 	shitsu 		quality
+輸 	yu 		transport
+述 	jutsu 	no-beru 	mention
+迷 	mei 	mayo-u 	astray
+退 	tai 	shirizo-ku 	retreat
+逆 	gyaku 	sakara-u 	inverted
+造 	zō 	tsuku-ru 	create
+過 	ka 	ayama-chi 	go beyond
+適 	teki 		suitable
+酸 	san 		acid
+鉱 	kō 		mineral
+銅 	dō 		copper
+銭 	sen 	zeni 	coin
+防 	bō 	fuse-gu 	prevent
+限 	gen 	kagi-ru 	limit
+険 	ken 	kewa-shii 	precipitous
+際 	sai 	kiwa 	occasion
+雑 	zatsu 		miscellaneous
+非 	hi 	ara-zu 	negative
+預 	yo 	azu-keru 	deposit
+領 	ryō 		territory
+額 	gaku 	hitai 	amount
+飼 	shi 	ka-u 	domesticate
+並 	hei 	nami; nara-bu 	row
+乱 	ran 	mida-reru 	riot
+乳 	nyū 	chichi 	milk
+亡 	bō 	na-kunaru 	deceased
+仁 	jin 		kindness
+供 	kyō; ku 	tomo 	offer
+俳 	hai 		actor
+値 	chi 	atai 	value
+傷 	shō 	kizu 	wound
+優 	yū 	yasa-shii 	superior
+党 	tō 		political party
+冊 	satsu 		counter for books
+処 	sho 		dispose
+刻 	koku 	kiza-mu 	engrave
+割 	katsu 	wa-ru 	divide
+創 	sō 	tsuku-ru 	create
+劇 	geki 		drama
+勤 	kin 	tsuto-meru 	diligence
+危 	ki 	aya-ui 	dangerous
+卵 	ran 	tamago 	egg
+厳 	gen 	kibi-shii 	strict
+収 	shū 	osa-meru 	take in
+后 	gō 	kisaki 	queen
+否 	hi 	ina; iya 	negate
+吸 	kyū 	su-u 	suck
+呼 	ko 	yo-bu 	call
+善 	zen 	yo-i 	good
+困 	kon 	koma-ru 	become distressed
+垂 	sui 	ta-reru 	droop
+城 	jō 	shiro 	castle
+域 	iki 		range
+奏 	sō 	kana-deru 	play music
+奮 	hun 	huru-u 	stirred up
+姿 	shi 	sugata 	shape
+存 	son 		suppose
+孝 	kō 		filial piety
+宅 	taku 	ie 	home
+宇 	u 		eaves
+宗 	shū 	sō 	religion
+宙 	chū 		mid-air
+宝 	hō 	takara 	treasure
+宣 	sen 	notama-u 	proclaim
+密 	mitsu 		secrecy
+寸 	sun 		measurement
+専 	sen 	moppa-ra 	specialty
+射 	sha 	i-ru 	shoot
+将 	shō 		leader
+尊 	son 	touto-bu 	revered
+就 	shū 	tsu-ku 	concerning
+尺 	shaku 		measure of length
+届 		todo-ku 	deliver
+展 	ten 		expand
+層 	sō 		stratum
+己 	ko 	onore 	self
+巻 	kan 	ma-ku 	scroll
+幕 	maku; baku 		curtain
+干 	kan 	ho-su 	dry
+幼 	yō 	osana-i 	infancy
+庁 	chō 		government office
+座 	za 	suwa-ru 	sit
+延 	en 	no-basu 	prolong
+律 	ritsu 		rhythm
+従 	jū 	shitaga-u 	obey
+忘 	bō 	wasu-reru 	forget
+忠 	chū 		loyalty
+憲 	ken 		constitution
+我 	ga 	ware 	ego
+批 	hi 		criticism
+担 	tan 	nina-u 	shouldering
+拝 	hai 	oga-mu 	worship
+拡 	kaku 	hiro-geru 	broaden
+捨 	sha 	su-teru 	throw away
+探 	tan 	saga-su 	grope
+推 	sui 		infer
+揮 	ki 		command
+操 	sō 	ayatsu-ru 	maneuver
+敬 	kei 	uyama-u 	respect
+映 	ei 	utsu-ru 	reflect
+晩 	ban 		nightfall
+暖 	dan 	atata-kai 	warmth
+暮 	bo 	ku-rasu 	livelihood
+朗 	rō 	hoga-raka 	melodious
+机 	ki 	tsukue 	desk
+枚 	mai 		sheet of…
+染 	sen 	so-meru 	dye
+株 	kabu 		stocks
+棒 	bō 		rod
+模 	mo; bo 		imitation
+権 	ken 		rights
+樹 	ju 	ki 	trees
+欲 	yoku 	ho-shii 	longing
+段 	dan 		steps
+沿 	en 	so-u 	run alongside
+泉 	sen 	izumi 	fountain
+洗 	sen 	ara-u 	wash
+派 	ha 		sect
+済 	sai 	su-mu 	settle
+源 	gen 	minamoto 	origin
+潮 	chō 	shio 	tide
+激 	geki 	hage-shii 	violent
+灰 	kai 	hai 	ashes
+熟 	juku 	u-reru 	ripen
+片 	hen 	kata 	one-sided
+班 	han 		group
+異 	i 	koto-naru 	uncommon
+疑 	gi 	utaga-u 	doubt
+痛 	tsū 	ita-i 	pain
+皇 	kō 	ō 	emperor
+盛 	sei 	mo-ru 	prosper
+盟 	mei 		alliance
+看 	kan 		watch over
+砂 	sa 	sha; suna 	sand
+磁 	ji 		magnet
+私 	shi 	watakushi; watashi 	me
+秘 	hi 		secret
+穀 	koku 		cereal
+穴 	ketsu 	ana 	hole
+窓 	sō 	mado 	window
+筋 	kin 	suji 	muscle
+策 	saku 		scheme
+簡 	kan 		simplicity
+糖 	tō 		sugar
+系 	kei 		lineage
+紅 	kō 	beni; kurenai 	deep red
+納 	nō 	osa-meru 	settlement
+純 	jun 		genuine
+絹 	ken 	kinu 	silk
+縦 	ju 	tate 	vertical
+縮 	shuku 	chidi-mu 	shrink
+署 	sho 		government office
+翌 	yoku 		the following
+聖 	sei 		holy
+肺 	hai 		lung
+背 	hai 	se 	back
+胸 	kyō 	mune 	bosom
+脳 	nō 		brain
+腹 	fuku 	hara 	abdomen
+臓 	zō 		entrails
+臨 	rin 	nozo-mu 	lookover
+至 	shi 	ita-ru 	climax
+若 	jaku 	waka-i 	young
+著 	cho 	arawa-su; ichijiru-shii 	renowned
+蒸 	jō 	mu-su 	steam
+蔵 	zō 	kura 	warehouse
+蚕 	san 	kaiko 	silkworm
+衆 	shū 		masses
+裁 	sai 	saba-ku 	judge
+装 	sō; shō 	yosoo-u 	attire
+裏 	ri 	ura 	back
+補 	ho 	ogina-u 	supplement
+視 	shi 	mi-ru 	look at
+覧 	ran 		perusal
+討 	tō 	u-tsu 	chastise
+訪 	hō 	otozu-reru 	visit
+訳 	yaku 	wake 	translate
+詞 	shi 	kotoba 	poetry
+誌 	shi 		document
+認 	nin 	mito-meru 	recognize
+誕 	tan 		born
+誠 	sei 	makoto 	sincerity
+誤 	go 	ayama-ru 	mistake
+論 	ron 		theory
+諸 	sho 	moro 	everything
+警 	kei 		guard against
+貴 	ki 		precious
+賃 	chin 		fare
+遺 	i 		bequeath
+郵 	yū 		mail
+郷 	kyou 	gou 	home town
+針 	shin 	hari 	needle
+鋼 	kou 	hagane 	steel
+閉 	hei 	shi-meru 	closed
+閣 	kaku 		tall
+降 	kou 	o-riru 	descend
+陛 	hei 		majesty
+除 	jo; ji 	nozo-ku 	exclude
+障 	shou 	sawa-ru 	hurt
+難 	nan 	muzuka-shii 	difficult
+革 	kaku 	kawa 	leather
+頂 	chou 	itada-ku 	place on the head
+骨 	kotsu 	hone 	bone

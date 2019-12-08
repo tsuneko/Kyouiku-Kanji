@@ -1,0 +1,160 @@
+数 	suu 	kazu 	number
+多 	ta 	oo-i 	many; much
+少 	shou 	suku-nai; suko-shi 	a few; a little
+万 	man 	yorozu 	ten thousand
+半 	han 	naka-ba 	half
+形 	kei; gyou 	katachi 	shape
+太 	ta 	futo-i 	great
+細 	sai 	hoso-i 	thin
+広 	kou 	hiro-i 	wide
+長 	chou 	naga-i 	long
+点 	ten 	bochi △ 	point
+丸 	gan 	maru 	circle
+交 	kou 	maji-waru 	mix
+光 	kou 	hikari; hika-ru 	light
+角 	kaku 	kado; tsuno; sumi 	angle; corner
+計 	kei 	haka-ru 	measure
+直 	choku; jiki 	tada-chi; nao-su 	straight; correct
+線 	sen 		line
+矢 	shi 	ya 	arrow
+弱 	jaku 	yowa-i 	weak
+強 	kyou 	tsuyo-i 	strong
+高 	kou 	taka-i 	tall or high
+同 	dou 	ona-ji 	same
+親 	shin 	oya 	parent
+母 	bo 	haha; kaa 	mother
+父 	fu 	chichi; tou 	father
+姉 	shi 	ane 	older sister
+兄 	(kei); kyou 	ani 	older brother
+弟 	(tei); dai 	otouto 	younger brother
+妹 	mai 	imouto 	younger sister
+自 	ji; shi 	mizuka-ra 	oneself
+友 	yuu 	tomo 	friend
+体 	tai 	karada 	body
+毛 	mou 	ke 	hair
+頭 	tou 	atama 	head
+顔 	gan 	kao 	face
+首 	shu 	kubi 	neck
+心 	shin 	kokoro 	heart
+時 	ji 	toki 	time
+曜 	you 		weekday
+朝 	chou 	asa 	morning
+昼 	chuu 	hiru 	daytime
+夜 	ya 	yoru 	night
+分 	fun; bun; bu 	wa-karu; wa-keru; wa-kareru; wa-katsu 	minute; understand
+週 	shuu 		week
+春 	shun 	haru 	spring
+夏 	ka 	natsu 	summer
+秋 	shuu 	aki 	autumn
+冬 	tou 	fuyu 	winter
+今 	kon 	ima 	now
+新 	shin 	atara-shii 	new
+古 	ko 	furu-i 	old
+間 	kan; ken 	ma; aida 	interval
+方 	hou 	kata 	direction
+北 	hoku 	kita 	north
+南 	nan 	minami 	south
+東 	tou 	higashi; azuma 	east
+西 	sei; sai 	nishi 	west
+遠 	en 	too-i 	far
+近 	kin 	chika-i 	near
+前 	zen 	mae 	in front
+後 	go; kou 	nochi; ushi-ro; ato 	behind
+内 	nai 	uchi 	inside
+外 	gai; ge 	soto; hoka; hazu-su 	outside
+場 	jou 	ba 	place
+地 	chi; ji 		ground
+国 	koku 	kuni 	country
+園 	en 	sono 	garden
+谷 	koku 	tani 	valley
+野 	ya 	no 	field
+原 	gen 	hara 	field; origin
+里 	ri 	sato 	village
+市 	shi 	ichi 	city
+京 	kyou; (kei) 	(miyako) 	capital
+風 	fuu 	kaze 	wind
+雪 	setsu 	yuki 	snow
+雲 	un 	kumo 	cloud
+池 	chi 	ike 	pond
+海 	kai 	umi 	sea
+岩 	gan 	iwa 	rock
+星 	sei 	hoshi 	star
+室 	shitsu 	muro 	room
+戸 	ko 	to; be 	door
+家 	ka; ke 	ie 	house
+寺 	ji 	tera 	Buddhist temple
+通 	tsuu 	too-ru 	pass through
+門 	mon 	kado 	gates
+道 	dou 	michi 	road
+話 	wa 	hanashi; hana-su 	talk
+言 	gen; gon 	i-u; koto 	say
+答 	tō 	kota-eru; kota-e 	answer
+声 	sei 	koe 	voice
+聞 	bun; mon 	ki-ku 	hear
+語 	go 	kata-ru 	language
+読 	doku 	yo-mu 	read
+書 	sho 	ka-ku 	write
+記 	ki 	shiru-su 	write down
+紙 	shi 	kami 	paper
+画 	ga; kaku 	 – 	picture
+絵 	kai 	e 	picture
+図 	zu; to 	(haka-ru) 	drawing
+工 	kou; ku 	 – 	craft
+教 	kyou 	oshi-eru 	teach
+晴 	sei 	hare 	clear
+思 	shi 	omo-u 	think
+考 	kou 	kanga-eru 	think about
+知 	chi 	shi-ru 	know
+才 	sai; zai 	wazukani; zae 	ability
+理 	ri 	kotowari 	reason
+算 	san 	 – 	calculate
+作 	saku 	tsuku-ru 	make
+元 	gen; gan 	moto 	origin
+食 	shoku 	ta-beru; ku-u 	eat; meal
+肉 	niku 	 – 	meat
+馬 	ba 	uma; ma 	horse
+牛 	gyuu 	ushi 	cow
+魚 	gyo 	uo; sakana 	fish
+鳥 	chou 	tori 	bird
+羽 	u 	ha; hane 	feather
+鳴 	mei 	na-ku 	chirp
+麦 	baku 	mugi 	wheat
+米 	bei; mai 	kome 	rice
+茶 	cha; sa 	 – 	tea
+色 	shoku 	iro 	colour
+黄 	ou 	ki 	yellow
+黒 	koku 	kuro 	black
+来 	rai 	ku-ru 	come
+行 	kou; gyou 	i-ku; yu-ku; okona-u 	go
+帰 	ki 	kae-ru 	return home
+歩 	ho 	aru-ku; ayu-mu 	walk
+走 	sou 	hashi-ru 	run
+止 	shi 	to-maru 	stop
+活 	katsu 	iki-ru; ika-su 	active; alive
+店 	ten 	mise 	store
+買 	bai 	ka-u 	buy
+売 	bai 	u-ru 	sell
+午 	go 	uma 	noon
+汽 	ki 		steam
+弓 	kyuu 	yumi 	bow
+回 	kai 	 – 	-times; to revolve
+会 	kai; e 	a-u 	association
+組 	so 	kumi 	association; team
+船 	sen 	fune 	ship
+明 	mei 	aka-rui 	bright
+社 	sha 	yashiro 	company
+切 	setsu 	ki-ru 	cut
+電 	den 	 – 	electricity
+毎 	mai 	 – 	every
+合 	gō 	a-u 	fit
+当 	tō 	a-taru 	hit
+台 	dai; tai 	 – 	base
+楽 	raku 	tano-shii 	pleasure
+公 	kou 	ōyake 	public
+引 	in 	hi-ku 	pull
+科 	ka 	 – 	section
+歌 	ka 	uta 	song
+刀 	tou 	katana 	sword
+番 	ban 	 – 	number
+用 	you 	mochi-iru 	use
+何 	ka 	nani; nan 	what
