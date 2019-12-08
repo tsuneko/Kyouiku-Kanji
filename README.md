@@ -12,7 +12,7 @@ Kanji data is parsed from the list found on [this site](https://agreatdream.com/
 - 1006 Kanji
 - Automatically saved progress and state
 - Flip flashcards with Left Click to view the readings and the meaning. Skip flashcards with Right Click.
-- Toggle between the Kanji Font with Middle Click.
+- Toggle between the Kanji Fonts with Middle Click.
 - Set system which can be used to move learnt Kanji up sets as they are learnt. It is recommended to have Set 1 for unknown Kanji, Set 2~4 for currently learning Kanji and Set 5 for learnt Kanji.
 - Batch system which can be sized between 1 and 50 Kanji, as well as an infinite option. The infinite option should be used for revising a whole Set, and as such it is not recommended to use it for Set 1.
 - To specify which Kanji of Sets are loaded into the batch, there are five square toggle buttons on the bottom left.
