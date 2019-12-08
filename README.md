@@ -1,6 +1,7 @@
 # Kyouiku-Kanji
 
 Simple flashcard app for G1~G6 Kanji built on the Love2D Game Engine.
+
 I only spent a day working on this, so it may have bugs.
 
 Kanji data is parsed from the list found on [this site](https://agreatdream.com/japanese-ministry-of-education-list-of-kanji-by-school-year-okm/). There may be issues with the data parsed, as well as the romaji to hiragana conversion. Please do not rely on this application for thorough learning, its primary intention is for revision of material already learnt.
