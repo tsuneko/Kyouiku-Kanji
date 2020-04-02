@@ -2,7 +2,7 @@ require "Kanji"
 require "TSerial"
 
 function love.load()
-	currentVersion = 0.22
+	currentVersion = 0.23
 	love.window.setTitle("Kyouiku Kanji 教育漢字 "..currentVersion)
 	
 	guiFont = love.graphics.newFont(8)
@@ -192,7 +192,6 @@ function love.update(dt)
 	end
 	
 	if love.keyboard.isDown("escape") then
-		save()
 		love.event.quit()
 	end
 	
@@ -223,6 +222,7 @@ function love.mousepressed(x, y, button, istouch, presses)
 					for bk, bv in ipairs(data.batch.kanji) do
 						if kanjiID == bv.id then
 							table.remove(data.batch.kanji, bk)
+							info = false
 							batchNextItem()
 							break
 						end
@@ -315,7 +315,7 @@ function love.draw()
 		repeatsString = "∞"
 	end
 	love.graphics.print("ID: " .. kanjiID .. " Batch Size: " .. batchSizeString .. " Repeats: " .. data.batch.currentRepeats .. "/" .. repeatsString .. " Correct: " .. data.batch.correct .. "/" .. #data.batch.kanji, 8, 708)
-	love.graphics.print("Version "..currentVersion.." ~ Design by tsuneko", 1140, 708)
+	love.graphics.print("Design by tsuneko", 1200, 708)
 	
 	if batchSize > 0 then
 		love.graphics.setFont(levelFont)
@@ -390,4 +390,8 @@ function love.draw()
 		love.graphics.print("Incorrect", guiButtons.incorrect.x+13, guiButtons.incorrect.y+10)
 		love.graphics.print("Correct", guiButtons.correct.x+21, guiButtons.correct.y+10)
 	end
+end
+
+function love.quit()
+	save()
 end
